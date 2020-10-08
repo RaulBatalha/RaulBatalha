@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
  :computer:<strong>Skills:</strong>  
-      <br><strong>Program Language:</strong> Java, Python.
+      <br><strong>Programming Language:</strong> Java, Python.
       <br><strong>Framework:</strong> Selenium, Appium, Rest Assured.
       <br><strong>Tools:</strong> Cucumber, Postman, Jmeter.
 </p>
