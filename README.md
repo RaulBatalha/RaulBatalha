@@ -3,7 +3,7 @@
 **RaulBatalha/RaulBatalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" min-width="450px" max-width="450px" width="450px" align="right">
 <p align="left">
    <br>My name is <strong>Raul Batalha</strong>.</br>
      I am <strong> Engineer Computer</strong> e <strong> Software QA Analyst</strong>.
